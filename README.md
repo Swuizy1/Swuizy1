@@ -1,6 +1,6 @@
 - 👋 Hi, my name is @Swuizy1
 - 👀 I am interested in development
-- 🌱 I am currently learning the C language
+- 🌱 I am currently learning the C language,HTMLand CSS ,PHP,JavaScript
 - 💞️ I am looking to collaborate on any platform
 - 📫 How to contact me
 email: Vsogah3@gmail.com
